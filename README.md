@@ -7,18 +7,12 @@ Repo : https://apt.amgios.com/
 License Locked by Serial Number and UDID
 
 Support:
-
-Unc0ver
-
-Checkra1n
-
-Palera1n
-
-Xina
-
-Dopamine
-
-Roothide
+- Unc0ver
+- Checkra1n
+- Palera1n
+- Xina
+- Dopamine
+- Roothide
 
 AMG One-Click New Device
 Holographic Backup & IMEI Removal Designed for privacy protection. 
