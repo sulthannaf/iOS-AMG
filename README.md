@@ -31,9 +31,6 @@ Powerful Software Core Functions: More Than Just Modification
 AMG integrates a variety of system-level debugging functions, easily handling both application testing and privacy protection.
 
 if want buy license, you can contact 💥
-
- • Discord  : sulthannaf
- 
- • Telegram : sulthannaf 
- 
- • Telegram Channel : https://t.me/jailcrek https://t.me/aptamgios
+- Discord  : sulthannaf
+- Telegram : sulthannaf
+- Telegram Channel : https://t.me/jailcrek https://t.me/aptamgios
